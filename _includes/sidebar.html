@@ -1,0 +1,19 @@
+<aside>
+  {% for group in site.data.navigation %}
+    <p class="menu-label">{{ group.text }}</p>
+    <ul class="menu-list">
+      {% for item in group.items %}
+        <li>
+          <a href="{{ item.url }}" class="{% if page.url == item.url %}is-active{% endif %}">{{ item.text }}</a>
+          {% if item.items %}
+            <ul>
+              {% for subitem in item.items %}
+                <li><a href="{{ subitem.url }}" class="{% if page.url == subitem.url %}is-active{% endif %}">{{ subitem.text }}</a></li>
+              {% endfor %}
+            </ul>
+          {% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+  {% endfor %}
+</aside>

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html class="has-navbar-fixed-top">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Visualizaciones</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/static/bulma/bulma.css">
+  </head>
+  <body>
+    {% include header.html %}
+    <section class="section" style="box-shadow: 0 0.2em 0.3em rgba(0,0,0,0.1);position: fixed;left: 0;width: 25%;z-index: 1000;height:100%">
+      {% include sidebar.html %}
+    </section>
+    <section class="section" style="width: 75%; margin-left: 25%;">
+      {{ content }}
+    </section>
+  </body>
+</html>
