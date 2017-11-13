@@ -55,21 +55,82 @@
       },
       {
         text: Capítulo 3,
-        url: '#',
+        url: /visualizaciones/3/1/,
         items: [
           {
-            text: 2.1,
-            url: /visualizaciones/2/1/,
+            text: Poliedros,
+            url: /visualizaciones/3/1/,
             items: []
           },
           {
-            text: 2.2,
-            url: /visualizaciones/2/2/,
+            text: 3.6,
+            url: /visualizaciones/3/6/,
             items: []
           },
           {
-            text: 2.3,
-            url: /visualizaciones/2/3/,
+            text: 3.8,
+            url: /visualizaciones/3/8/,
+            items: []
+          },
+          {
+            text: 3.9,
+            url: /visualizaciones/3/9/,
+            items: []
+          },
+          {
+            text: 3.14,
+            url: /visualizaciones/3/14/,
+            items: []
+          }
+        ]
+      }, 
+      {
+        text: Programación lineal,
+        url: /visualizaciones/4/1/,
+        items: [
+          {
+            text: No acotamiento,
+            url: /visualizaciones/4/1/,
+            items: []
+          },
+          {
+            text: Degenerancia,
+            url: /visualizaciones/4/2/,
+            items: []
+          }, 
+          {
+            text: Costos reducidos,
+            url: /visualizaciones/4/3/,
+            items: []
+          }, 
+          {
+            text: Bases factibles,
+            url: /visualizaciones/4/4/,
+            items: []
+          }, 
+          {
+            text: Vértices adyacentes,
+            url: /visualizaciones/4/5/,
+            items: []
+          }, 
+          {
+            text: Degenerancia y redundancia,
+            url: /visualizaciones/4/6/,
+            items: []
+          }, 
+          {
+            text: Criterio de salida,
+            url: /visualizaciones/4/7/,
+            items: []
+          }, 
+          {
+            text: Fase I,
+            url: /visualizaciones/4/8/,
+            items: []
+          }, 
+          {
+            text: Sensibilidad,
+            url: /visualizaciones/4/9/,
             items: []
           }
         ]
