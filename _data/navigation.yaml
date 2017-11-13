@@ -7,11 +7,11 @@
         url: /,
         items: []
       },
-      {
-        text: Objetivos,
-        url: /about/,
-        items: []
-      }
+      # {
+      #   text: Objetivos,
+      #   url: /about/,
+      #   items: []
+      # }
     ]
   },
   {
