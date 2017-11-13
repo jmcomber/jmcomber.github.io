@@ -19,7 +19,7 @@
     items: [
       {
         text: Capítulo 2,
-        url: '#',
+        url: /visualizaciones/2/3/,
         items: [
           {
             text: Mínimos y máximos,
