@@ -3,7 +3,7 @@
     text: General,
     items: [
       {
-        text: Introducción,
+        text: Bienvenida,
         url: /,
         items: []
       },
@@ -18,28 +18,43 @@
     text: Visualizaciones,
     items: [
       {
-        text: Tema 1,
+        text: Capítulo 2,
         url: '#',
         items: [
           {
-            text: 1.1,
-            url: /visualizaciones/1/1/,
+            text: Mínimos y máximos,
+            url: /visualizaciones/2/3/,
             items: []
           },
           {
-            text: 1.2,
-            url: /visualizaciones/1/2/,
+            text: Acotamiento y soluciones óptimas,
+            url: /visualizaciones/2/5/,
             items: []
           },
           {
-            text: 1.3,
-            url: /visualizaciones/1/3/,
+            text: Función coercitiva,
+            url: /visualizaciones/2/8/,
+            items: []
+          },
+          {
+            text: Combinación convexa,
+            url: /visualizaciones/2/10/,
+            items: []
+          },
+          {
+            text: Función convexa,
+            url: /visualizaciones/2/12/,
+            items: []
+          },
+          {
+            text: Epígrafo,
+            url: /visualizaciones/2/14/,
             items: []
           }
         ]
       },
       {
-        text: Tema 2,
+        text: Capítulo 3,
         url: '#',
         items: [
           {
