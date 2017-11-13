@@ -63,22 +63,22 @@
             items: []
           },
           {
-            text: 3.6,
+            text: Restricciones activas,
             url: /visualizaciones/3/6/,
             items: []
           },
           {
-            text: 3.8,
+            text: Soluciones básicas,
             url: /visualizaciones/3/8/,
             items: []
           },
           {
-            text: 3.9,
+            text: Más restricciones activas,
             url: /visualizaciones/3/9/,
             items: []
           },
           {
-            text: 3.14,
+            text: Condición de no acotamiento,
             url: /visualizaciones/3/14/,
             items: []
           }
