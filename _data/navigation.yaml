@@ -134,7 +134,70 @@
             items: []
           }
         ]
+      }, 
+      {
+        text: Flujo en Redes,
+        url: /visualizaciones/5/1/,
+        items: [
+          {
+            text: Definición grafo,
+            url: /visualizaciones/5/1/,
+            items: []
+          },
+          {
+            text: "Redes conexas, no conexas y fuertemente conexas",
+            url: /visualizaciones/5/2/,
+            items: []
+          }, 
+          {
+            text: Conjuntos de entrada y salida,
+            url: /visualizaciones/5/3/,
+            items: []
+          }, 
+          {
+            text: "Ciclos, caminatas y rutas",
+            url: /visualizaciones/5/4/,
+            items: []
+          }, 
+          {
+            text: Representación redes,
+            url: /visualizaciones/5/5/,
+            items: []
+          }, 
+          {
+            text: Árbol,
+            url: /visualizaciones/5/6/,
+            items: []
+          }, 
+          {
+            text: Flujo costo mínimo,
+            url: /visualizaciones/5/7/,
+            items: []
+          }, 
+          {
+            text: Toda base es árbol,
+            url: /visualizaciones/5/8/,
+            items: []
+          }, 
+          {
+            text: Simplex redes,
+            url: /visualizaciones/5/9/,
+            items: []
+          }, 
+          {
+            text: Problema no acotado,
+            url: /visualizaciones/5/10/,
+            items: []
+          }, 
+          {
+            text: Fase I redes,
+            url: /visualizaciones/5/11/,
+            items: []
+          }
+        ]
       }
+
+
     ]
   }
 ]
